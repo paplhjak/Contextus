@@ -1,0 +1,3 @@
+# Contextus
+Implementation and results of bachelor thesis "Convolutional Neural Networks with Local Context Masks".
+Code and results will be provided at a later date ...
