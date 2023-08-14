@@ -34,12 +34,3 @@ The code has been reorganized and model was changed since publishing the thesis.
 To request access to the original models or the training framework implemented for [CMP](cmp.felk.cvut.cz) data storage, contact the author at paplhjak@fel.cvut.cz.
 
 [CMP](cmp.felk.cvut.cz) users may browse the original framework, visualization and evaluation tools at /mnt/datagrid/personal/paplhjak/BThesis/.
-
-## Pre-trained Models
-
-Pre-trained models will be made public after reaching parameter convergence.
-
-## Results
-
-Results will be made public after reaching parameter convergence.
-
